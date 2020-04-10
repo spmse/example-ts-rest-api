@@ -1,6 +1,6 @@
 {
-  "name": "node-ts-swagger-boilerplate",
-  "version": "0.1.2",
+  "name": "example-ts-swagger-rest-api",
+  "version": "0.1.0",
   "description": "",
   "main": "app.ts",
   "scripts": {
